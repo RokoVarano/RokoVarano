@@ -1,16 +1,22 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RokoVarano&theme=great-gatsby)](https://github.com/RokoVarano/github-readme-stats)
 
-<!--
-**RokoVarano/RokoVarano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rodrigo Ibaceta, Fullstack Developer
 
-Here are some ideas to get you started:
+## What I do
+- I create and modify web applications
+- I can use Ruby on Rails and React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I want
+- To work remotely
+- To build fun and useful applications
+- To learn new tools, so that I can grow
+
+### Random info
+- Into tabletop RPGs (Website forms apps help a lot!)
+- Into videogames
+
+# Contact me!
+
+- [E-mail](rodrigo.ibaceta01@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-ibaceta/)
+
